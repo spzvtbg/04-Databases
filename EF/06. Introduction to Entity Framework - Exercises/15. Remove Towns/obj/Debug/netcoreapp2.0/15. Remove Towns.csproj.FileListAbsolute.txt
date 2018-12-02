@@ -1,0 +1,13 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\bin\Debug\netcoreapp2.0\15. Remove Towns.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\bin\Debug\netcoreapp2.0\15. Remove Towns.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\bin\Debug\netcoreapp2.0\15. Remove Towns.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\bin\Debug\netcoreapp2.0\15. Remove Towns.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\bin\Debug\netcoreapp2.0\15. Remove Towns.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\obj\Debug\netcoreapp2.0\15. Remove Towns.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\obj\Debug\netcoreapp2.0\15. Remove Towns.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\obj\Debug\netcoreapp2.0\15. Remove Towns.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\obj\Debug\netcoreapp2.0\15. Remove Towns.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\obj\Debug\netcoreapp2.0\15. Remove Towns.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\obj\Debug\netcoreapp2.0\15. Remove Towns.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\bin\Debug\netcoreapp2.0\02 DatabaseFirst.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\15. Remove Towns\bin\Debug\netcoreapp2.0\02 DatabaseFirst.pdb

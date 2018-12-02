@@ -1,0 +1,17 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\StartUp.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\StartUp.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\StartUp.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\StartUp.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\StartUp.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\obj\Debug\netcoreapp2.0\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\obj\Debug\netcoreapp2.0\StartUp.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\obj\Debug\netcoreapp2.0\StartUp.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\obj\Debug\netcoreapp2.0\StartUp.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\obj\Debug\netcoreapp2.0\StartUp.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\obj\Debug\netcoreapp2.0\StartUp.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\P01_StudentSystemSeeder.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\P01_StudentSystemSeeder.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\P03_FootballBetting.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\StartUp\bin\Debug\netcoreapp2.0\P03_FootballBetting.pdb

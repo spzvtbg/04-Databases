@@ -1,0 +1,13 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\bin\Debug\netcoreapp2.0\06. AddingNewAddress.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\bin\Debug\netcoreapp2.0\06. AddingNewAddress.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\bin\Debug\netcoreapp2.0\06. AddingNewAddress.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\bin\Debug\netcoreapp2.0\06. AddingNewAddress.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\bin\Debug\netcoreapp2.0\06. AddingNewAddress.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\bin\Debug\netcoreapp2.0\02 DatabaseFirst.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\bin\Debug\netcoreapp2.0\02 DatabaseFirst.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\obj\Debug\netcoreapp2.0\06. AddingNewAddress.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\obj\Debug\netcoreapp2.0\06. AddingNewAddress.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\obj\Debug\netcoreapp2.0\06. AddingNewAddress.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\obj\Debug\netcoreapp2.0\06. AddingNewAddress.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\obj\Debug\netcoreapp2.0\06. AddingNewAddress.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\06. AddingNewAddress\obj\Debug\netcoreapp2.0\06. AddingNewAddress.pdb

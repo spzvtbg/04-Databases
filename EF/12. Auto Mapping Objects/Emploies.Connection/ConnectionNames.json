@@ -1,0 +1,4 @@
+{
+  "MyString": "Server=.;Database=EmploiesInfo;Integrated Security=True;",
+  "CommonString": "Server=.;Database=EmploiesInfo;Integrated Security=True;"
+}

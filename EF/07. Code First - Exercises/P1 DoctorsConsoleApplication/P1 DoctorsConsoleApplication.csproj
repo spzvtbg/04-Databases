@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\2. Hospital Database Modification\P01_HospitalDatabase.csproj" />
+    <ProjectReference Include="..\HospitalInitializer\HospitalDatabaseInitializer\HospitalDatabaseInitializer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Engine\" />
+  </ItemGroup>
+
+</Project>

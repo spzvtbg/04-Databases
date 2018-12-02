@@ -1,0 +1,15 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\obj\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\obj\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\obj\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\obj\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\obj\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\obj\Debug\netcoreapp2.0\P1 DoctorsConsoleApplication.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\P1 DoctorsConsoleApplication\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb

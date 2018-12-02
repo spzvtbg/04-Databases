@@ -1,0 +1,13 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\obj\Debug\netcoreapp2.0\03.EmployeesFullInformation.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\obj\Debug\netcoreapp2.0\03.EmployeesFullInformation.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\obj\Debug\netcoreapp2.0\03.EmployeesFullInformation.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\bin\Debug\netcoreapp2.0\03.EmployeesFullInformation.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\bin\Debug\netcoreapp2.0\03.EmployeesFullInformation.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\bin\Debug\netcoreapp2.0\03.EmployeesFullInformation.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\bin\Debug\netcoreapp2.0\03.EmployeesFullInformation.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\bin\Debug\netcoreapp2.0\03.EmployeesFullInformation.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\bin\Debug\netcoreapp2.0\02 DatabaseFirst.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\bin\Debug\netcoreapp2.0\02 DatabaseFirst.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\obj\Debug\netcoreapp2.0\03.EmployeesFullInformation.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\obj\Debug\netcoreapp2.0\03.EmployeesFullInformation.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\03.EmployeesFullInformation\obj\Debug\netcoreapp2.0\03.EmployeesFullInformation.pdb

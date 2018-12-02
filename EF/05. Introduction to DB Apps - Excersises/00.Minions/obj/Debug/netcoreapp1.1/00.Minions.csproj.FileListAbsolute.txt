@@ -1,0 +1,11 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\bin\Debug\netcoreapp1.1\00.Minions.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\bin\Debug\netcoreapp1.1\00.Minions.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\bin\Debug\netcoreapp1.1\00.Minions.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\bin\Debug\netcoreapp1.1\00.Minions.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\bin\Debug\netcoreapp1.1\00.Minions.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\obj\Debug\netcoreapp1.1\00.Minions.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\obj\Debug\netcoreapp1.1\00.Minions.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\obj\Debug\netcoreapp1.1\00.Minions.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\obj\Debug\netcoreapp1.1\00.Minions.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\obj\Debug\netcoreapp1.1\00.Minions.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\00.Minions\obj\Debug\netcoreapp1.1\00.Minions.pdb

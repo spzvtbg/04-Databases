@@ -1,0 +1,3 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\14. DeleteProject\obj\Debug\netcoreapp2.0\14. DeleteProject.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\14. DeleteProject\obj\Debug\netcoreapp2.0\14. DeleteProject.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\14. DeleteProject\obj\Debug\netcoreapp2.0\14. DeleteProject.AssemblyInfo.cs

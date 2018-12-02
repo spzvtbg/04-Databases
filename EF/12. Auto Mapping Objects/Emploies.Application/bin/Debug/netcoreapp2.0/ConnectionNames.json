@@ -1,0 +1,4 @@
+{
+  "MyString": "Server=DESKTOP-0NANS27\\SQLEXPRESS;Database=EmploiesInfo;Integrated Security=True;",
+  "CommonString": "Server=.;Database=EmploiesInfo;Integrated Security=True;"
+}

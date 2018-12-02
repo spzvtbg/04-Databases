@@ -1,0 +1,6 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\ConsoleDrawHelper\bin\Debug\ConsoleDrawHelper.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\ConsoleDrawHelper\bin\Debug\ConsoleDrawHelper.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\ConsoleDrawHelper\obj\Debug\ConsoleDrawHelper.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\ConsoleDrawHelper\obj\Debug\ConsoleDrawHelper.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\ConsoleDrawHelper\obj\Debug\ConsoleDrawHelper.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\ConsoleDrawHelper\obj\Debug\ConsoleDrawHelper.pdb

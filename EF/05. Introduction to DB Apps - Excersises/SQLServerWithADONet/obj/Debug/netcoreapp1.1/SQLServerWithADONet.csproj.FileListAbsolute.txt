@@ -1,0 +1,4 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\SQLServerWithADONet\obj\Debug\netcoreapp1.1\SQLServerWithADONet.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\SQLServerWithADONet\obj\Debug\netcoreapp1.1\SQLServerWithADONet.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\SQLServerWithADONet\obj\Debug\netcoreapp1.1\SQLServerWithADONet.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\05. Introduction to DB Apps - Excersises\SQLServerWithADONet\obj\Debug\netcoreapp1.1\SQLServerWithADONet.AssemblyInfo.cs

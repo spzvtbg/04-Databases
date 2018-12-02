@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookShop.Data\BookShop.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BookShop.Initializer">
+      <HintPath>..\..\..\..\Downloads\BookShop\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

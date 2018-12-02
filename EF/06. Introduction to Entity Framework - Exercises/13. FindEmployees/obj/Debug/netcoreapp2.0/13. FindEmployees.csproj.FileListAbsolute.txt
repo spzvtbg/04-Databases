@@ -1,0 +1,12 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\bin\Debug\netcoreapp2.0\13. FindEmployees.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\bin\Debug\netcoreapp2.0\13. FindEmployees.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\bin\Debug\netcoreapp2.0\13. FindEmployees.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\bin\Debug\netcoreapp2.0\13. FindEmployees.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\bin\Debug\netcoreapp2.0\13. FindEmployees.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\bin\Debug\netcoreapp2.0\02 DatabaseFirst.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\bin\Debug\netcoreapp2.0\02 DatabaseFirst.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\obj\Debug\netcoreapp2.0\13. FindEmployees.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\obj\Debug\netcoreapp2.0\13. FindEmployees.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\obj\Debug\netcoreapp2.0\13. FindEmployees.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\obj\Debug\netcoreapp2.0\13. FindEmployees.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\13. FindEmployees\obj\Debug\netcoreapp2.0\13. FindEmployees.pdb

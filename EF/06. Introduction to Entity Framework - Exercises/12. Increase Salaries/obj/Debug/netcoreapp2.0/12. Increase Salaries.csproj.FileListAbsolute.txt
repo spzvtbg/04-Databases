@@ -1,0 +1,12 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\bin\Debug\netcoreapp2.0\12. Increase Salaries.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\bin\Debug\netcoreapp2.0\12. Increase Salaries.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\bin\Debug\netcoreapp2.0\12. Increase Salaries.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\bin\Debug\netcoreapp2.0\12. Increase Salaries.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\bin\Debug\netcoreapp2.0\12. Increase Salaries.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\bin\Debug\netcoreapp2.0\02 DatabaseFirst.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\bin\Debug\netcoreapp2.0\02 DatabaseFirst.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\obj\Debug\netcoreapp2.0\12. Increase Salaries.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\obj\Debug\netcoreapp2.0\12. Increase Salaries.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\obj\Debug\netcoreapp2.0\12. Increase Salaries.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\obj\Debug\netcoreapp2.0\12. Increase Salaries.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\12. Increase Salaries\obj\Debug\netcoreapp2.0\12. Increase Salaries.pdb

@@ -1,0 +1,11 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\bin\Debug\netcoreapp2.0\P01_StudentSystemSeeder.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\bin\Debug\netcoreapp2.0\P01_StudentSystemSeeder.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\bin\Debug\netcoreapp2.0\P01_StudentSystemSeeder.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\obj\Debug\netcoreapp2.0\P01_StudentSystemSeeder.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\obj\Debug\netcoreapp2.0\P01_StudentSystemSeeder.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\obj\Debug\netcoreapp2.0\P01_StudentSystemSeeder.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\obj\Debug\netcoreapp2.0\P01_StudentSystemSeeder.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\obj\Debug\netcoreapp2.0\P01_StudentSystemSeeder.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\obj\Debug\netcoreapp2.0\P01_StudentSystemSeeder.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P01_StudentSystemSeeder\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb

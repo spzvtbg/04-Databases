@@ -1,0 +1,9 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\08. Entity Realations\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.pdb

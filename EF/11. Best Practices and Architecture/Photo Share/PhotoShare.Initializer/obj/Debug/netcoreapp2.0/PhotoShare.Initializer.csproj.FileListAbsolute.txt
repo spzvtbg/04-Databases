@@ -1,0 +1,13 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\bin\Debug\netcoreapp2.0\PhotoShare.Initializer.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\bin\Debug\netcoreapp2.0\PhotoShare.Initializer.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\bin\Debug\netcoreapp2.0\PhotoShare.Initializer.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\obj\Debug\netcoreapp2.0\PhotoShare.Initializer.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\obj\Debug\netcoreapp2.0\PhotoShare.Initializer.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\obj\Debug\netcoreapp2.0\PhotoShare.Initializer.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\obj\Debug\netcoreapp2.0\PhotoShare.Initializer.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\obj\Debug\netcoreapp2.0\PhotoShare.Initializer.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\11. Best Practices and Architecture\Photo Share\PhotoShare.Initializer\obj\Debug\netcoreapp2.0\PhotoShare.Initializer.pdb

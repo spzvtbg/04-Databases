@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Categories>
+  <CategoryDto>
+    <Name>Chicken</Name>
+    <MostPopularItem>
+      <Name>Chicken Tenders</Name>
+      <TotalMade>44.00</TotalMade>
+      <TimesSold>11</TimesSold>
+    </MostPopularItem>
+  </CategoryDto>
+  <CategoryDto>
+    <Name>Toys</Name>
+    <MostPopularItem>
+      <Name>Minion</Name>
+      <TotalMade>24.20</TotalMade>
+      <TimesSold>11</TimesSold>
+    </MostPopularItem>
+  </CategoryDto>
+  <CategoryDto>
+    <Name>Drinks</Name>
+    <MostPopularItem>
+      <Name>Purple Drink</Name>
+      <TotalMade>9.10</TotalMade>
+      <TimesSold>7</TimesSold>
+    </MostPopularItem>
+  </CategoryDto>
+</Categories>

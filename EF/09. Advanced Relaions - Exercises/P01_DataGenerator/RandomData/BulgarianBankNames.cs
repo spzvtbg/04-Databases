@@ -1,0 +1,30 @@
+﻿namespace P01_DataGenerator.RandomData
+{
+    public enum BulgarianBankNames
+    {
+        Allianz,
+        BNPParibas,
+        BulgarianAmericanCreditBank,
+        BulgarianNationalBank,
+        BulgarianPostbank,
+        CentralCooperativeBank,
+        DCommerceBank,
+        DSKBank,
+        DeutscheBank,
+        EconomicandInvestmentBank,
+        FirstInvestmentBank,
+        INGBank,
+        InternationalAssetBank,
+        Investbank,
+        PiraeusBank,
+        ProCreditBank,
+        RaiffeisenBank,
+        SGExpressbank,
+        CBVictoria,
+        TBIBank,
+        TokudaBank,
+        Teximbank,
+        UnicreditBulbank,
+        UnitedBulgarianBank,
+    }
+}

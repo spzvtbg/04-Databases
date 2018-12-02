@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Json\categories.json" />
+    <None Remove="Json\products.json" />
+    <None Remove="Json\users.json" />
+    <None Remove="Xml\categories.xml" />
+    <None Remove="Xml\products.xml" />
+    <None Remove="Xml\users.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Json\categories.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Json\products.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Json\users.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Xml\categories.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Xml\products.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Xml\users.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductShop.Data\ProductShop.Data.csproj" />
+    <ProjectReference Include="..\ProductShop.Models\ProductShop.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="JsonExport\" />
+    <Folder Include="XmlExport\" />
+  </ItemGroup>
+
+</Project>

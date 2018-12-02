@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ProductShop.Dtos/1.0.0": {
+        "dependencies": {
+          "ProductShop.Models": "1.0.0"
+        },
+        "runtime": {
+          "ProductShop.Dtos.dll": {}
+        }
+      },
+      "ProductShop.Models/1.0.0": {
+        "runtime": {
+          "ProductShop.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductShop.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductShop.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

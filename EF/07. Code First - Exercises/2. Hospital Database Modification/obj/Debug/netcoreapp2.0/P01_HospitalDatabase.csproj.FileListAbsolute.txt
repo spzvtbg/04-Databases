@@ -1,0 +1,9 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\07. Code First - Exercises\2. Hospital Database Modification\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb

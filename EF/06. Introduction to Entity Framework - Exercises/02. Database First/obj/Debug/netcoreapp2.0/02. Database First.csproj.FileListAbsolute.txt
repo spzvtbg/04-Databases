@@ -1,0 +1,11 @@
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\bin\Debug\netcoreapp2.0\02. Database First.deps.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\bin\Debug\netcoreapp2.0\02. Database First.runtimeconfig.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\bin\Debug\netcoreapp2.0\02. Database First.runtimeconfig.dev.json
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\bin\Debug\netcoreapp2.0\02. Database First.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\bin\Debug\netcoreapp2.0\02. Database First.pdb
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\obj\Debug\netcoreapp2.0\02. Database First.csprojResolveAssemblyReference.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\obj\Debug\netcoreapp2.0\02. Database First.csproj.CoreCompileInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\obj\Debug\netcoreapp2.0\02. Database First.AssemblyInfoInputs.cache
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\obj\Debug\netcoreapp2.0\02. Database First.AssemblyInfo.cs
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\obj\Debug\netcoreapp2.0\02. Database First.dll
+C:\Users\spzvt\Desktop\Databases-Advanced---Entity-Framework\06. Introduction to Entity Framework - Exercises\02. Database First\obj\Debug\netcoreapp2.0\02. Database First.pdb
